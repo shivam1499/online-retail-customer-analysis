@@ -45,7 +45,6 @@ git clone https://github.com/yourusername/ecommerce-customer-analysis-databricks
 3. Update the Kaggle API credentials (USERNAME and KEY) in the code.
 4. Run the analysis and review the insights.
 
-Then open the notebook in Jupyter or upload to Databricks.
 
 ## File Structure
 
